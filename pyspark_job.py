@@ -63,5 +63,5 @@ df_transformed.write \
 print("Data written to BigQuery successfully")
 
 
-# Stop Spark session
+# Stop 
 spark.stop()
